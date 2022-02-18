@@ -1,0 +1,14 @@
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\APP Simples Cadastro Séries .NET\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\APP Simples Cadastro Séries .NET\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\APP Simples Cadastro Séries .NET\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\APP Simples Cadastro Séries .NET\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\APP Simples Cadastro Séries .NET\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\APP Simples Cadastro Séries .NET\DIO.Series\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\APP Simples Cadastro Séries .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\APP Simples Cadastro Séries .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\APP Simples Cadastro Séries .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\APP Simples Cadastro Séries .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\APP Simples Cadastro Séries .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\APP Simples Cadastro Séries .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\APP Simples Cadastro Séries .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\APP Simples Cadastro Séries .NET\DIO.Series\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
